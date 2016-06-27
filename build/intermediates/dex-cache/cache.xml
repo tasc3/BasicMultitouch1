@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="814274a69e3286b0bf6ddae4f0f1cefd00d6b02b">
+        <dex dex="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_93d8bfc047eb16b9c272ba90aa80252320d162f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3e8a4e74fa95b833d23c64e893ab5ef6df1075cf">
+        <dex dex="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9461d7beb01a198b44790758abd9c577ea53a5da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.3.0_b290d85042f01e88348ab24d14a90c7723412289\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ae814f341b5f343bf6ebf60c1373eb4db841b8ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_77ecd1cef3dc3295bde1559e1ae6eac6c828efde\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Familia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_d73894a6d911914f5c2c6ff6216aa7d10474392f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Familia\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_6a90003b5ad91a0e565d96758123377d60b47e23\classes.dex" />
+    </item>
+
+</items>
